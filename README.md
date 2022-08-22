@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Girish Salaskar (@girishsalaskar)
 - 👀 I’m interested in Eating, Traveling, listening music
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning front-end/UI & UX development technologies (Javascript, React, Angular)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 Will modify rest when get enough time.
 <!---
