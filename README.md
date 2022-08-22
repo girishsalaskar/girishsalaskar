@@ -9,14 +9,12 @@
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 ### Frameworks
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 ### Database
 
@@ -26,6 +24,11 @@
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
+### Social
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/girishsalaskar?style=social)](https://twitter.com/girishsalaskar)
+[![GitHub followers](https://img.shields.io/github/followers/girishsalaskar?style=social)](https://github.com/girishsalaskar)
+[![Linkedin](https://img.shields.io/badge/-girishsalaskar-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/girish-salaskar/)
+[![Mail](https://img.shields.io/badge/-girishsalaskar812@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:girishsalaskar812@gmail.com)
 
 Will modify rest when get enough time.
