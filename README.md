@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Girish Salaskar (@girishsalaskar)
-- 👀 I’m interested in Eating, Traveling, listening music
-- 🌱 I’m currently learning front-end/UI & UX development technologies (Javascript, React, Angular)
+## 👋 Hi, I’m Girish Salaskar (@girishsalaskar)
 
 ## 🔧 Technologies & Tools
 
@@ -23,7 +21,7 @@
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-### Social
+## Social
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/girishsalaskar?style=social)](https://twitter.com/girishsalaskar)
 [![GitHub followers](https://img.shields.io/github/followers/girishsalaskar?style=social)](https://github.com/girishsalaskar)
