@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Girish Salaskar (@girishsalaskar)
 - 👀 I’m interested in Eating, Traveling, listening music
 - 🌱 I’m currently learning front-end/UI & UX development technologies (Javascript, React, Angular)
-- 💞️ I’m looking to collaborate on ...
 
 ## 🔧 Technologies & Tools
 
@@ -31,4 +30,11 @@
 [![Linkedin](https://img.shields.io/badge/-girishsalaskar-blue?style=flat-square&logo=linkedin&logoColor=white&link=)](https://www.linkedin.com/in/girish-salaskar/)
 [![Mail](https://img.shields.io/badge/-girishsalaskar812@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:girishsalaskar812@gmail.com)
 
-Will modify rest when get enough time.
+## Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=girishsalaskar&show_icons=true&theme=material-palenight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girishsalaskar&layout=compact&theme=material-palenight)](https://github.com/girishsalaskar)
+
+## Profile Visits
+![Visit Counter](https://profile-counter.glitch.me/%7Bgirishsalaskar%7D/count.svg)
