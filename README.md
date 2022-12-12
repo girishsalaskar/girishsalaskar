@@ -32,9 +32,8 @@
 
 ## Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=girishsalaskar&show_icons=true&theme=material-palenight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girishsalaskar&layout=compact&theme=material-palenight)](https://github.com/girishsalaskar)
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=girishsalaskar&show_icons=true&theme=material-palenight) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=girishsalaskar&layout=compact&theme=material-palenight)](https://github.com/girishsalaskar) |
+| ------------- | ------------- |
 
 ## Profile Visits
 ![Visit Counter](https://profile-counter.glitch.me/%7Bgirishsalaskar%7D/count.svg)
