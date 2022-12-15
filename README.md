@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Girish Salaskar</h1>
 <h3 align="center">I'm a software development engineer, worked in IT corporate. I like to solve logical problems in programming and developing bug free softwares and websites. Currently learning the front-end (react and angular) development technologies. I've worked on PHP, MySQL, PostgreSQL, JavaScript, Java, HTML. I love to work on linux OS (like Ubuntu, Zorin OS, Fedora, CentOS) and I'm open source enthusiast.</h3>
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=girishsalaskar" alt="girishsalaskar" /></p>
+<p align="left">
+<h3 align="left">Github summary</h3><img src="https://github-profile-trophy.vercel.app/?username=girishsalaskar" alt="girishsalaskar" /></p>
 
 <h3 align="left"><b>Connect with me</b></h3>
 
